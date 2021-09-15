@@ -1,2 +1,2 @@
-# nrf
-nrf projects and learning 
+# nRF BLE projects
+nRF BLE projects and learning 
